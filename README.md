@@ -25,23 +25,15 @@
 ### 🚀 Projects I'm Proud Of
 
 - ✈️ **LLM-Empowered Unmanned Traffic Management**  
-  Exploring how LLMs can assist airspace operators with real-time decision-making in drone environments.  
-
-- 🌿 **Nabta: AI for Smart Irrigation**  
-  Al Miyah Challenge Finalist — Building an AI tool that predicts water demand using satellite, sensor, and weather data to optimize irrigation in arid climates.
+  Exploring how LLMs can assist airspace operators with real-time decision-making in drone environments.
+  
+- 🌍 **Q-Quake — NYUAD Hackathon for Social Good **  
+  A real-time earthquake alert system using Quantum ML and satellite data to predict seismic activity and alert communities in advance.
 
 - 🧠 **Cancer Detection with AI**  
   Applied machine learning to enhance early cancer detection accuracy using medical datasets.
 
----
 
-### 📚 What I'm Learning
-
-- Advanced NLP with Transformers  
-- UAV Simulations with Leaflet.js & Flask  
-- Cloud Services (AWS, Azure) for AI Deployment  
-
----
 
 ### 🏆 Recent Highlights
 
